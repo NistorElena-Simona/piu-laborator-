@@ -27,5 +27,19 @@ namespace ConsoleApp1
             
         }
     }
+    public class Medicament
+    {
+        string marca;
+        int pret;
+        private string _marca;
+        private int _pret;
 
+       
+        public Medicament(string marca, int pret) 
+        {
+            _marca = marca;
+            _pret = pret;
+        }
+    }
+    
 }

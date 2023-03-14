@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Farmacie farmacie = new Farmacie();
+            Console.WriteLine("Bine ati venit la Farmacia Catena.Cu ce va putem ajuta?");
 
         }
     }
