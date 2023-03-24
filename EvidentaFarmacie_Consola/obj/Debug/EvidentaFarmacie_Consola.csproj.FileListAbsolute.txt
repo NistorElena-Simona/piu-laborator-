@@ -1,0 +1,26 @@
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.AssemblyReference.cache
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.SuggestedBindingRedirects.cache
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.CoreCompileInputs.cache
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.exe.config
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.exe
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\LibrarieModele.dll
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\NivelStocareDate.dll
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\LibrarieModele.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\NivelStocareDate.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.CopyComplete
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.exe
+E:\Proiect PIU\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.exe.config
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.exe
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\EvidentaFarmacie_Consola.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\LibrarieModele.dll
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\NivelStocareDate.dll
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\LibrarieModele.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\bin\Debug\NivelStocareDate.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.AssemblyReference.cache
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.CoreCompileInputs.cache
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.csproj.CopyComplete
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.exe
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\EvidentaFarmacie_Consola\obj\Debug\EvidentaFarmacie_Consola.pdb

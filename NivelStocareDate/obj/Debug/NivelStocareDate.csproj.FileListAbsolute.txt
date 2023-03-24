@@ -1,0 +1,18 @@
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\LibrarieModele.dll
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+E:\Proiect PIU\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.dll
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\NivelStocareDate.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\LibrarieModele.dll
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\bin\Debug\LibrarieModele.pdb
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.AssemblyReference.cache
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CoreCompileInputs.cache
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.csproj.CopyComplete
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.dll
+C:\Users\polie\OneDrive\Desktop\piu\Proiect PIU lab 3\EvidentaFarmacie_Consola\NivelStocareDate\obj\Debug\NivelStocareDate.pdb
