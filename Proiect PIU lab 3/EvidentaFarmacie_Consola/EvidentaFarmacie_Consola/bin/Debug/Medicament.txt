@@ -1,0 +1,12 @@
+1;era;23;
+2;Ibuprofen;200;
+3;lala;12;
+4;er;34;
+5;Ibuprofen;200;
+6;tre;34;
+7;Ibuprofen;200;
+8;ger;45;
+9;you;154;
+10;Ibuprofen;200;
+11;polo;123;
+12;Ibuprofen;200;
